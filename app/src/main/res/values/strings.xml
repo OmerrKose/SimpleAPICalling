@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleAPICalling</string>
+    <string name="helloWorld">Hello World! This is a simple API calling application for learning purpose!</string>
+    <string name="please_wait">Please wait...</string>
+</resources>
